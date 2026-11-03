@@ -70,9 +70,11 @@ _"Quality is not an act, it is a habit."_
 
 ## 📂 Projects
 
-- **qa-pulse**: A web-based testing platform featuring an Express backend server and React frontend client.
-- **LastBite & LastBiteMerchant**: A food surplus management React Native mobile application and merchant app integrating QR scanning, SQL Server, and Cashfree payments.
-- **EchoMap**: An application concept for exploring tourist locations and heritage sites.
+- **BetaByte**: A sleek, retro-styled aggregator dedicated exclusively to tracking upcoming tech leaks, beta software drops, and hardware rumors.
+- **ExpenseFintech**: A financial technology application designed to track and manage personal expenses.
+- **LastBite & LastBiteMerchant**: A food surplus management React Native mobile application and merchant app integrating QR scanning, SQL Server, and Cashfree payments(in development).
+- **qa-pulse**: A web-based testing platform featuring an Express backend server and React frontend client(in development).
+- **EchoMap**: An application concept for exploring tourist locations and heritage sites(in development).
 - **Cinematic Portfolio**: A personal portfolio deployed on GitHub.
 
  <p align="left">
